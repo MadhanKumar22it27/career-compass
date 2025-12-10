@@ -18,12 +18,6 @@ AI engine powered by **career_compass_rag** module.
 
 ---
 
-## 📸 Preview
-
-(Add screenshots here later. I can generate them too if you want.)
-
----
-
 # ✨ Features
 
 ### 🔍 **AI Resume Evaluation**
@@ -246,4 +240,5 @@ uploads/
 
 Want a **premium README with images & badges** like a startup product?
 Say **“upgrade README”** 🚀
+
 
