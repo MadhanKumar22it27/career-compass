@@ -1,0 +1,2 @@
+Best practice: show API endpoints, DB, and outcome in bullet points.
+When listing cloud work, include service names and short outcomes (e.g., reduced costs by X%).
