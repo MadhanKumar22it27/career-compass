@@ -1,12 +1,3 @@
-Say less bro — here comes a **🔥 premium GitHub-ready README**
-for your **Career Compass – AI Resume Evaluator** project.
-
-This looks **professional**, **clean**, and absolutely **interview-friendly**.
-
-Copy–paste directly into your repo.
-
----
-
 # 🚀 **Career Compass — AI Resume Evaluator**
 
 ### *AI-powered Resume Analyzer with ATS Scoring, Skill Matching, and Job Fit Evaluation*
@@ -255,3 +246,4 @@ uploads/
 
 Want a **premium README with images & badges** like a startup product?
 Say **“upgrade README”** 🚀
+
