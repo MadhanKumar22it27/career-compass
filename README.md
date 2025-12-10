@@ -235,10 +235,3 @@ uploads/
 *.log
 *.pdf
 ```
-
-
-
-Want a **premium README with images & badges** like a startup product?
-Say **“upgrade README”** 🚀
-
-
